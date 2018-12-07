@@ -8,8 +8,7 @@ A camera installed on the UAV receives intermittent observations of the target t
 Assume a noisy measurement of the target location (2D) when it is inside the camera field-of-view,
 and no measurement when it is outside.
 
-<p align="center">
 ![](UAV_landing.gif)
-</p>
+
 
 
