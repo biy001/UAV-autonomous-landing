@@ -3,7 +3,7 @@ A UAV autonomously lands on a moving ground platform based on a POMDP model impl
 
 Problem Overview:
 A UAV chases a moving ground platform (the target) and intends to finally land on it.
-Assume full knowledge of the UAV state with the only uncertainty lying on the target state.
+Assume a full knowledge of the UAV state with the only uncertainty lying on the target state.
 A camera installed on the UAV receives intermittent observations of the target to estimate its state.
 Assume a noisy measurement of the target location (2D) when it is inside the camera field-of-view,
 and no measurements when it is outside.
